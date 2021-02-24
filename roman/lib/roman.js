@@ -1,7 +1,7 @@
 class RomanConverter {
     
-    sum(a, b) {
-            return a + b;
+    fromNumerToRoman(number) {
+			return "I"
     }
     
 }
